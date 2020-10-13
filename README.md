@@ -70,6 +70,7 @@ Essa è articolata in 5 pagine principali:
 Per installare e avviare il recommender system, assicurandoti che Python 3 sia installato. 
 Per installare le due librerie necessare utilizza il seguente comando da terminale:
   > pip install flask flask-restful pandas
+  
 Per avviare il Recommender System/Web Service avvia dal terminale il file ./start_server.sh
 Avvia il file ./stop_server.sh per terminare il Web Service.
 
